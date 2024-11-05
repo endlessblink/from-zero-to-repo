@@ -1,3 +1,7 @@
+
+![Zero to Repo Cover](images/zero-to-repo-cover.png)
+
+
 # AI Repository Creator
 
 A Python-based tool for automating GitHub repository creation using AI-generated documentation.
@@ -34,3 +38,5 @@ The tool:
 
 ## License
 MIT License
+
+
